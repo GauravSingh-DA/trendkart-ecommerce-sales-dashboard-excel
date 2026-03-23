@@ -1,7 +1,10 @@
+# 📊 TrendKart E-Commerce Sales Analysis 
+
+---
 
 ## 📌 Project Title
 
-** 📊 TrendKart E-Commerce Sales Analysis Dashboard (2022)**
+**TrendKart E-Commerce Sales Analysis Dashboard**
 
 ---
 
@@ -70,6 +73,11 @@ TrendKart wants to understand its sales performance and customer trends to impro
 
 ---
 
+## 📷 Dashboard
+
+![Dashboard](Dashboard/dashboard_preview.png)
+
+---
 
 ## 📂 Project Structure
 
@@ -118,5 +126,3 @@ The project highlights key sales patterns and customer insights that can help Tr
 **Gaurav Singh**  
 📧 gauravsingh20305566@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/gaurav-singh-1083013b7
-
----
